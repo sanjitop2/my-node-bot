@@ -1,0 +1,39 @@
+{
+  "groups": {
+    "120363417091478789@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "members"
+    },
+    "120363418620524317@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "all"
+    },
+    "120363401398103356@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "members"
+    },
+    "120363402179013348@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "all"
+    },
+    "120363372784286899@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "members"
+    },
+    "120363418150873965@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "members"
+    },
+    "120363419946936990@g.us": {
+      "linksBlocked": true,
+      "stickersBlocked": true,
+      "deleteTarget": "members"
+    }
+  }
+}
